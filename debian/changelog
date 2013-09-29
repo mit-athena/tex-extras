@@ -1,4 +1,4 @@
-debathena-tex-extras (1.2-1) UNRELEASED; urgency=low
+debathena-tex-extras (1.2-1) unstable; urgency=low
 
   [ Jonathan Reed ]
   * Bump debian/compat to 6
@@ -8,8 +8,10 @@ debathena-tex-extras (1.2-1) UNRELEASED; urgency=low
 
   [ Alexander Chernyakhovsky ]
   * Convert package to non-native
+  * Add git-buildpackage configuration
+  * Set source format to 3.0 (quilt)
 
- -- Alexander Chernyakhovsky <achernya@mit.edu>  Sun, 29 Sep 2013 04:31:27 -0400
+ -- Alexander Chernyakhovsky <achernya@mit.edu>  Sun, 29 Sep 2013 04:31:50 -0400
 
 debathena-tex-extras (1.1) unstable; urgency=low
 
